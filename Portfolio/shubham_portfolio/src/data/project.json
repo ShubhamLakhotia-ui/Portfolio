@@ -5,7 +5,7 @@
     "description": "This project was created to showcase proficiency in the MERN stack by building an event management app.",
     "skills": ["MongoDB", "ExpressJS", "React","NodeJS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ShubhamLakhotia-ui/ThingsTODO"
   },
   {
     "title": "Shopping Website",
@@ -13,7 +13,7 @@
     "description": "This project demonstrates proficiency in the React and Redux Toolkit stack by creating a shopping website.",
     "skills": ["React", "HTML", "CSS", "Redux","NodeJS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ShubhamLakhotia-ui/Online-Shopping-Website"
   },
   {
     "title": "Blogging Site",
@@ -21,6 +21,6 @@
     "description": "This is a project made to learn the authentication by building a simple webiste.",
     "skills": ["MongoDB", "ExpressJS", "JWT tokens","NodeJS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ShubhamLakhotia-ui/Blogging-Site"
   }
 ]
