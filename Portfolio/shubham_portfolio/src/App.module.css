@@ -1,0 +1,10 @@
+@import "./vars.css";
+
+.App {
+  background-color: var(--color-bg);
+  /* background-color: black; */
+  /* background: linear-gradient(135deg, #000000, #4b4b4b, #9e9e9e); */
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}

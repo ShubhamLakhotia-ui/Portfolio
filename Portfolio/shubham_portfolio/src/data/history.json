@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Jio Platforms Limited,Reliance Industries",
+    "startDate": "Aug 2022",
+    "endDate": "Dec 2023",
+    "experiences": ["Developed multiple new features of Employee Portal", "Reduced load times by 40%","Supervised the team of eight members in the implementation of a micro frontend architecture"],
+    "imageSrc": "history/jio.png"
+  },
+  {
+    "role": "Software Enginner",
+    "organisation": "Jio Platforms Limited,Reliance Industries",
+    "startDate": "Jun 2021",
+    "endDate": "Jul 2022",
+    "experiences": ["Developed reusable components and dynamic reactive forms", "Implemented unit testing protocols for platform features","Utilized Angular expertise to troubleshoot and resolve technical issues "],
+    "imageSrc": "history/jio.png"
+  },
+  {
+    "role": "Indsutrial Training",
+    "organisation": "BSNL",
+    "startDate": "May 2018",
+    "endDate": "Jul 2018",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/bsnl.png"
+  }
+]
