@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/shubham_portfolio/index.html"
+status = 200
