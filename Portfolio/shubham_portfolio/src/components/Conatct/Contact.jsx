@@ -34,7 +34,7 @@ const Contact = () => {
             src={getImageUrl("contact/githubIcon.png")}
             alt="Email Icon"
           ></img>
-          <a href="https://www.github.com" target="_blank">
+          <a href="https://github.com/ShubhamLakhotia-ui" target="_blank">
             GitHub
           </a>
         </li>
